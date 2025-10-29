@@ -14,7 +14,6 @@
 
 <!-- See also https://github.com/journey-ad/journey-ad/blob/master/README.md -->
 
-<div align="center">
-     <img src="https://chat.getloli.com/room/@wjwever.github/svg?align=center&theme=light&width=500&height=200&limit=20&title=wjwever@github:%20~&fontSize=13))"  href="https://chat.getloli.com/room/@wjwever.github?title="chat" alt="wjwever" /> 
-    
-</div>
+<a href="https://chat.getloli.com/room/@wjwever.github?title=chat">
+     <img src="https://chat.getloli.com/room/@wjwever.github/svg?align=center&theme=light&width=500&height=200&limit=20&title=wjwever@github:%20~&fontSize=13))"   alt="wjwever" /> 
+</a>
